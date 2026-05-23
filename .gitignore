@@ -18,3 +18,5 @@ codegen/
 # Results folder
 results/*
 !results/README.md
+*.mat
+*.mat
