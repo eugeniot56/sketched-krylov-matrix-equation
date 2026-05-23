@@ -20,3 +20,4 @@ results/*
 !results/README.md
 *.mat
 *.mat
+*.mat
