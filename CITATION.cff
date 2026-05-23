@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Sketching-based Krylov methods for generalized matrix equations"
+message: "If you use this software, please cite the associated thesis and repository."
+authors:
+  - family-names: "Turchet"
+    given-names: "Eugenio"
+license: "BSD-3-Clause"
