@@ -66,8 +66,7 @@ switch test_problem
     case 5
         data_file = 'TP_5.mat';
 
-    case 6
-        data_file = 'TP_6.mat';
+  
 
     otherwise
         error('Invalid test problem. Choose 2, 3, 4, 5 or 6.');
