@@ -136,7 +136,6 @@ TP_2.mat
 TP_3.mat
 TP_4.mat
 TP_5.mat
-TP_6.mat
 ```
 
 ---
