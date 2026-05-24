@@ -1,0 +1,3 @@
+Method,Iterations,SpaceDimension,Rank,FinalResidual,TimeSeconds,MemoryMB
+Full Krylov-Galerkin,22,45,45,4.99109822069623e-06,80.658977375,278.106880187988
+Sketched Krylov-Galerkin,31,63,62,3.63036471135703e-06,9.820276375,389.358283996582
